@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "Sambackend123",
+    "DB_PASSWORD": "Sambackend123",
+    "DB_NAME": "mern",
+    "GOOGLE_API_KEY": "AIzaSyAQ6t0hd3NPv8budvr4WJH0J4sa8RwtnuI",
+    "JWT_KEY": "supersecret_dont_share"
+  }
+}
