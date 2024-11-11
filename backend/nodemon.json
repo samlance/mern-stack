@@ -1,7 +1,7 @@
 {
   "env": {
-    "DB_USER": "Sambackend123",
-    "DB_PASSWORD": "Sambackend123",
+    "DB_USER": databaseusernameinquotes",
+    "DB_PASSWORD": databasepasswordinquotes,
     "DB_NAME": "mern",
     "GOOGLE_API_KEY": googleapikeyneedtoreplacehereinquotes,
     "JWT_KEY": "supersecret_dont_share"
